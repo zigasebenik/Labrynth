@@ -1,0 +1,2978 @@
+# depslib dependency file v1.0
+1482698703 source:c:\users\uporabnik\desktop\izdelek matura\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1476820335 c:\users\uporabnik\desktop\izdelek matura\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394257098 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\sdl\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1483461751 source:c:\users\uporabnik\desktop\izdelek matura\src\mainclass.cpp
+	"MainClass.h"
+
+1481298094 c:\users\uporabnik\desktop\izdelek matura\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1451805391 c:\sdl\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160143 c:\sdl\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1482698566 source:c:\users\uporabnik\desktop\izdelek matura\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1483551402 source:c:\users\uporabnik\desktop\izdelek matura\src\labirint.cpp
+	"labirint.h"
+
+1483014061 c:\users\uporabnik\desktop\izdelek matura\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+
+1483551341 source:c:\users\uporabnik\desktop\izdelek matura\src\tile.cpp
+	"Tile.h"
+
+1483551364 c:\users\uporabnik\desktop\izdelek matura\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1477213998 c:\users\uporabnik\desktop\izdelek matura\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1482683904 source:c:\users\uporabnik\desktop\izdelek matura\src\soba.cpp
+	"soba.h"
+
+1477058892 c:\users\uporabnik\desktop\izdelek matura\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1476822948 source:c:\users\uporabnik\desktop\izdelek matura\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1477058892 c:\users\uporabnik\desktop\izdelek matura\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1476885388 source:c:\users\uporabnik\desktop\izdelek matura\src\vrata.cpp
+	"Vrata.h"
+
+1483015663 source:c:\users\uporabnik\desktop\izdelek matura\src\hero.cpp
+	"Hero.h"
+
+1482868171 c:\users\uporabnik\desktop\izdelek matura\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849886 c:\users\uporabnik\desktop\izdelek matura\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1482849917 source:c:\users\uporabnik\desktop\izdelek matura\src\sprite.cpp
+	"Sprite.h"
+
+1482683151 source:c:\users\uporabnik\desktop\izdelek matura – kopija\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298094 c:\users\uporabnik\desktop\izdelek matura – kopija\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1476820335 c:\users\uporabnik\desktop\izdelek matura – kopija\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477058892 c:\users\uporabnik\desktop\izdelek matura – kopija\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1482683173 c:\users\uporabnik\desktop\izdelek matura – kopija\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+
+1477212032 c:\users\uporabnik\desktop\izdelek matura – kopija\include\tile.h
+	<MainClass.h>
+
+1477213998 c:\users\uporabnik\desktop\izdelek matura – kopija\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477058892 c:\users\uporabnik\desktop\izdelek matura – kopija\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1481302224 c:\users\uporabnik\desktop\izdelek matura – kopija\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1481300251 c:\users\uporabnik\desktop\izdelek matura – kopija\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1482683729 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\labirint.cpp
+	"labirint.h"
+
+1479034864 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\mainclass.cpp
+	"MainClass.h"
+
+1476822948 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1476823818 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683904 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\soba.cpp
+	"soba.h"
+
+1478536773 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\sprite.cpp
+	"Sprite.h"
+
+1477212032 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\tile.cpp
+	"Tile.h"
+
+1476885388 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\vrata.cpp
+	"Vrata.h"
+
+1482682925 source:c:\users\uporabnik\desktop\izdelek matura – kopija\src\hero.cpp
+	"Hero.h"
+
+1482698568 source:g:\izdelek matura\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298096 g:\izdelek matura\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1476820336 g:\izdelek matura\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477058894 g:\izdelek matura\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1483014062 g:\izdelek matura\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+
+1485689802 g:\izdelek matura\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1485710620 g:\izdelek matura\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849888 g:\izdelek matura\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1477214000 g:\izdelek matura\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477058894 g:\izdelek matura\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1485711810 source:g:\izdelek matura\src\hero.cpp
+	"Hero.h"
+
+1485712256 source:g:\izdelek matura\src\labirint.cpp
+	"labirint.h"
+
+1485700844 source:g:\izdelek matura\src\mainclass.cpp
+	"MainClass.h"
+
+1476822950 source:g:\izdelek matura\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1482698704 source:g:\izdelek matura\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683906 source:g:\izdelek matura\src\soba.cpp
+	"soba.h"
+
+1482849918 source:g:\izdelek matura\src\sprite.cpp
+	"Sprite.h"
+
+1476885390 source:g:\izdelek matura\src\vrata.cpp
+	"Vrata.h"
+
+1485690054 source:g:\izdelek matura\src\tile.cpp
+	"Tile.h"
+
+1482698568 source:f:\izdelek matura\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298096 f:\izdelek matura\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1476816736 f:\izdelek matura\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477055294 f:\izdelek matura\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1483014062 f:\izdelek matura\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+
+1483551366 f:\izdelek matura\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1482868172 f:\izdelek matura\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849888 f:\izdelek matura\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1477210400 f:\izdelek matura\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477055294 f:\izdelek matura\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1483015664 source:f:\izdelek matura\src\hero.cpp
+	"Hero.h"
+
+1483624498 source:f:\izdelek matura\src\labirint.cpp
+	"labirint.h"
+
+1483624272 source:f:\izdelek matura\src\mainclass.cpp
+	"MainClass.h"
+
+1476819350 source:f:\izdelek matura\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1482698704 source:f:\izdelek matura\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683906 source:f:\izdelek matura\src\soba.cpp
+	"soba.h"
+
+1482849918 source:f:\izdelek matura\src\sprite.cpp
+	"Sprite.h"
+
+1476881790 source:f:\izdelek matura\src\vrata.cpp
+	"Vrata.h"
+
+1449750830 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1449750838 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1449750866 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750828 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1449750830 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\close_code.h
+
+1449750832 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1449750832 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750834 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750858 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750894 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1449750872 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750864 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1449750872 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1449750858 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1449750846 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750846 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750854 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750866 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750870 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750878 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 f:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 f:\izdelek matura\sdl_workspace\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801792 f:\izdelek matura\sdl_workspace\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1483623446 source:f:\izdelek matura\src\tile.cpp
+	"Tile.h"
+
+1449750830 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1449750838 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1449750866 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750828 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1449750830 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\close_code.h
+
+1449750832 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1449750832 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750834 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750858 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750894 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1449750872 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750864 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1449750872 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1449750858 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1449750846 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750846 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750854 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750866 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750870 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750878 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 g:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801792 g:\izdelek matura\sdl_workspace\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 g:\izdelek matura\sdl_workspace\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1482698568 source:k:\izdelek matura\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298096 k:\izdelek matura\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1449750830 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1449750838 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1449750866 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750828 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1449750830 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\close_code.h
+
+1449750832 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1449750832 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750834 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750858 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750894 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1449750872 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750864 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1449750872 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1449750858 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1449750846 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750846 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750854 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750866 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750870 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750878 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 k:\izdelek matura\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801792 k:\izdelek matura\sdl_workspace\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 k:\izdelek matura\sdl_workspace\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476816736 k:\izdelek matura\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477055294 k:\izdelek matura\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1483014062 k:\izdelek matura\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+
+1483551366 k:\izdelek matura\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1482868172 k:\izdelek matura\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849888 k:\izdelek matura\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1477210400 k:\izdelek matura\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477055294 k:\izdelek matura\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1483015664 source:k:\izdelek matura\src\hero.cpp
+	"Hero.h"
+
+1483634062 source:k:\izdelek matura\src\mainclass.cpp
+	"MainClass.h"
+
+1476819350 source:k:\izdelek matura\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1482698704 source:k:\izdelek matura\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683906 source:k:\izdelek matura\src\soba.cpp
+	"soba.h"
+
+1482849918 source:k:\izdelek matura\src\sprite.cpp
+	"Sprite.h"
+
+1483623446 source:k:\izdelek matura\src\tile.cpp
+	"Tile.h"
+
+1476881790 source:k:\izdelek matura\src\vrata.cpp
+	"Vrata.h"
+
+1482698568 source:c:\users\uporabnik\desktop\izdelek z collisnom\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298096 c:\users\uporabnik\desktop\izdelek z collisnom\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1476820336 c:\users\uporabnik\desktop\izdelek z collisnom\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477058894 c:\users\uporabnik\desktop\izdelek z collisnom\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1486327724 c:\users\uporabnik\desktop\izdelek z collisnom\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+	"Enemy.h"
+	"Camera.h"
+
+1486324667 c:\users\uporabnik\desktop\izdelek z collisnom\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1486324667 c:\users\uporabnik\desktop\izdelek z collisnom\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849888 c:\users\uporabnik\desktop\izdelek z collisnom\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1477214000 c:\users\uporabnik\desktop\izdelek z collisnom\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477058894 c:\users\uporabnik\desktop\izdelek z collisnom\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1486324743 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\hero.cpp
+	"Hero.h"
+
+1486064877 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\mainclass.cpp
+	"MainClass.h"
+
+1476822950 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1482698704 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683906 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\soba.cpp
+	"soba.h"
+
+1482849918 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\sprite.cpp
+	"Sprite.h"
+
+1486324667 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\tile.cpp
+	"Tile.h"
+
+1476885390 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\vrata.cpp
+	"Vrata.h"
+
+1486327823 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\labirint.cpp
+	"labirint.h"
+
+1486327875 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\enemy.cpp
+	"Enemy.h"
+
+1486327817 c:\users\uporabnik\desktop\izdelek z collisnom\include\enemy.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+	"Hero.h"
+	<math.h>
+	"Camera.h"
+
+1486327640 source:c:\users\uporabnik\desktop\izdelek z collisnom\src\camera.cpp
+	"Camera.h"
+
+1486327883 c:\users\uporabnik\desktop\izdelek z collisnom\include\camera.h
+	"Tile.h"
+	<SDL.h>
+
+1482698568 source:f:\izdelek z novo kamero\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298096 f:\izdelek z novo kamero\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1449750830 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1449750838 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1449750866 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750828 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1449750830 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\close_code.h
+
+1449750832 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1449750832 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750834 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750858 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750894 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1449750872 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750864 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1449750872 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1449750858 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1449750846 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750846 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750854 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750866 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750870 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750878 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 f:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801792 f:\izdelek z novo kamero\sdl_workspace\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 f:\izdelek z novo kamero\sdl_workspace\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476816736 f:\izdelek z novo kamero\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477055294 f:\izdelek z novo kamero\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1486327726 f:\izdelek z novo kamero\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+	"Enemy.h"
+	"Camera.h"
+
+1486324668 f:\izdelek z novo kamero\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1486379682 f:\izdelek z novo kamero\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849888 f:\izdelek z novo kamero\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1477210400 f:\izdelek z novo kamero\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477055294 f:\izdelek z novo kamero\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1486377092 f:\izdelek z novo kamero\include\enemy.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+	"Hero.h"
+	<math.h>
+	"Camera.h"
+
+1486380330 f:\izdelek z novo kamero\include\camera.h
+	"Tile.h"
+	<SDL.h>
+	"Enemy.h"
+
+1486380568 source:f:\izdelek z novo kamero\src\hero.cpp
+	"Hero.h"
+
+1486380460 source:f:\izdelek z novo kamero\src\labirint.cpp
+	"labirint.h"
+
+1486064878 source:f:\izdelek z novo kamero\src\mainclass.cpp
+	"MainClass.h"
+
+1476819350 source:f:\izdelek z novo kamero\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1482698704 source:f:\izdelek z novo kamero\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683906 source:f:\izdelek z novo kamero\src\soba.cpp
+	"soba.h"
+
+1482849918 source:f:\izdelek z novo kamero\src\sprite.cpp
+	"Sprite.h"
+
+1486324668 source:f:\izdelek z novo kamero\src\tile.cpp
+	"Tile.h"
+
+1476881790 source:f:\izdelek z novo kamero\src\vrata.cpp
+	"Vrata.h"
+
+1486380350 source:f:\izdelek z novo kamero\src\camera.cpp
+	"Camera.h"
+
+1486380568 source:f:\izdelek z novo kamero\src\enemy.cpp
+	"Enemy.h"
+
+1482698568 source:g:\izdelek z novo kamero\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1481298096 g:\izdelek z novo kamero\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+
+1449750830 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1449750838 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1449750866 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750828 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1449750830 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\close_code.h
+
+1449750832 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1449750832 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750834 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750858 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750894 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1449750872 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750840 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1449750842 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750864 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750876 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750836 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1449750872 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1449750858 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750850 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750868 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1449750846 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750844 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750846 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750852 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750854 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750856 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750866 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750870 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750878 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750896 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750900 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1449750848 g:\izdelek z novo kamero\sdl_workspace\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801792 g:\izdelek z novo kamero\sdl_workspace\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 g:\izdelek z novo kamero\sdl_workspace\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476820336 g:\izdelek z novo kamero\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477058894 g:\izdelek z novo kamero\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1486327726 g:\izdelek z novo kamero\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+	"Enemy.h"
+	"Camera.h"
+
+1486324668 g:\izdelek z novo kamero\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1486379682 g:\izdelek z novo kamero\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+
+1482849888 g:\izdelek z novo kamero\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1477214000 g:\izdelek z novo kamero\include\soba.h
+	<MainClass.h>
+	<Vrata.h>
+
+1477058894 g:\izdelek z novo kamero\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1486377092 g:\izdelek z novo kamero\include\enemy.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+	"Hero.h"
+	<math.h>
+	"Camera.h"
+
+1486412254 g:\izdelek z novo kamero\include\camera.h
+	"Tile.h"
+	<SDL.h>
+	"Enemy.h"
+
+1486412300 source:g:\izdelek z novo kamero\src\camera.cpp
+	"Camera.h"
+
+1486398014 source:g:\izdelek z novo kamero\src\enemy.cpp
+	"Enemy.h"
+
+1486412446 source:g:\izdelek z novo kamero\src\hero.cpp
+	"Hero.h"
+
+1486064878 source:g:\izdelek z novo kamero\src\mainclass.cpp
+	"MainClass.h"
+
+1476822950 source:g:\izdelek z novo kamero\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1482698704 source:g:\izdelek z novo kamero\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1482683906 source:g:\izdelek z novo kamero\src\soba.cpp
+	"soba.h"
+
+1482849918 source:g:\izdelek z novo kamero\src\sprite.cpp
+	"Sprite.h"
+
+1486324668 source:g:\izdelek z novo kamero\src\tile.cpp
+	"Tile.h"
+
+1476885390 source:g:\izdelek z novo kamero\src\vrata.cpp
+	"Vrata.h"
+
+1486412254 source:g:\izdelek z novo kamero\src\labirint.cpp
+	"labirint.h"
+
+1488398808 source:c:\users\uporabnik\desktop\izdelek z novo kamero\main.cpp
+	<iostream>
+	"MainClass.h"
+
+1489685879 c:\users\uporabnik\desktop\izdelek z novo kamero\include\mainclass.h
+	<SDL.h>
+	<SDL_image.h>
+	<ctime>
+	<stdlib.h>
+	<set>
+	<SDL_mixer.h>
+	<fstream>
+	<SDL_ttf.h>
+	<sstream>
+	<SDLsetup.h>
+	<ResourceManager.h>
+	<labirint.h>
+	<map>
+	<SDL_ttf.h>
+
+1476823936 c:\users\uporabnik\desktop\izdelek z novo kamero\include\sdlsetup.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1477062494 c:\users\uporabnik\desktop\izdelek z novo kamero\include\resourcemanager.h
+	<map>
+	<string>
+	<SDL.h>
+
+1496602396 c:\users\uporabnik\desktop\izdelek z novo kamero\include\labirint.h
+	<MainClass.h>
+	"Tile.h"
+	"soba.h"
+	"Vrata.h"
+	"Hero.h"
+	<math.h>
+	<iomanip>
+	"Enemy.h"
+	"Camera.h"
+	"Chest.h"
+	"SDLsetup.h"
+	"Fireball.h"
+	<SDL_ttf.h>
+	<Boss.h>
+	<fstream>
+	<Zoga.h>
+
+1488455574 c:\users\uporabnik\desktop\izdelek z novo kamero\include\tile.h
+	<MainClass.h>
+	"Hero.h"
+
+1494869844 c:\users\uporabnik\desktop\izdelek z novo kamero\include\hero.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+	<math.h>
+	<SDL_ttf.h>
+
+1488493076 c:\users\uporabnik\desktop\izdelek z novo kamero\include\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1490299688 c:\users\uporabnik\desktop\izdelek z novo kamero\include\soba.h
+	<MainClass.h>
+	"Vrata.h"
+	"Enemy.h"
+	"SDLsetup.h"
+	"Camera.h"
+	"Fireball.h"
+	<iostream>
+
+1477062494 c:\users\uporabnik\desktop\izdelek z novo kamero\include\vrata.h
+	<SDL.h>
+	<stdlib.h>
+
+1488739032 c:\users\uporabnik\desktop\izdelek z novo kamero\include\enemy.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+	"Hero.h"
+	<math.h>
+	"Camera.h"
+
+1490213630 c:\users\uporabnik\desktop\izdelek z novo kamero\include\camera.h
+	"Tile.h"
+	<SDL.h>
+	"Enemy.h"
+
+1490458153 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\camera.cpp
+	"Camera.h"
+
+1497543316 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\enemy.cpp
+	"Enemy.h"
+
+1494869844 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\hero.cpp
+	"Hero.h"
+
+1497369933 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\labirint.cpp
+	"labirint.h"
+
+1494871117 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\mainclass.cpp
+	"MainClass.h"
+
+1476826550 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1488398808 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\sdlsetup.cpp
+	"SDLsetup.h"
+
+1491319877 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\soba.cpp
+	"soba.h"
+
+1488494482 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\sprite.cpp
+	"Sprite.h"
+
+1489768121 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\tile.cpp
+	"Tile.h"
+
+1476888990 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\vrata.cpp
+	"Vrata.h"
+
+1492016644 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\chest.cpp
+	"Chest.h"
+
+1492015572 c:\users\uporabnik\desktop\izdelek z novo kamero\include\chest.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Sprite.h"
+	"SDLsetup.h"
+	<ctime>
+	<stdlib.h>
+	"hero.h"
+
+1491319739 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\fireball.cpp
+	"Fireball.h"
+
+1488724987 c:\users\uporabnik\desktop\izdelek z novo kamero\include\fireball.h
+	"Sprite.h"
+	"Hero.h"
+	"SDLsetup.h"
+	<iostream>
+
+1494864735 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\boss.cpp
+	"Boss.h"
+
+1494864778 c:\users\uporabnik\desktop\izdelek z novo kamero\include\boss.h
+	<SDL.h>
+	<SDLsetup.h>
+	<Sprite.h>
+	<ctime>
+	<stdlib.h>
+	"Hero.h"
+	<math.h>
+	"Camera.h"
+
+1496861977 source:c:\users\uporabnik\desktop\izdelek z novo kamero\src\zoga.cpp
+	"Zoga.h"
+
+1496861897 c:\users\uporabnik\desktop\izdelek z novo kamero\include\zoga.h
+	"Sprite.h"
+	"Hero.h"
+	"SDLsetup.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
